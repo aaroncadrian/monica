@@ -1631,6 +1631,7 @@ export default {
             "information_edit_firstname": "First name",
             "information_edit_lastname": "Last name (Optional)",
             "information_edit_linkedin": "LinkedIn profile (optional)",
+            "information_edit_not_year": "I know the day and month of the birthdate of this person, but not the year…",
             "information_edit_unknown": "I do not know this person's age",
             "information_edit_probably": "This person is probably",
             "information_edit_probably_yo": "years old",
